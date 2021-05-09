@@ -1,0 +1,17 @@
+body{
+    background-color: #DCE0E6;
+}
+#image{
+    width: 900px;
+    height: 400px;
+    margin-left: 15%;
+    border-radius: 5px;
+    
+
+}
+#title{
+    text-align: center;
+}
+#main{
+    margin:10px;
+}
