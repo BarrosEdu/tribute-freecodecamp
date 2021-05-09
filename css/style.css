@@ -2,8 +2,8 @@ body{
     background-color: #DCE0E6;
 }
 #image{
-    width: 900px;
-    height: 400px;
+    width: auto;
+    height: auto;
     margin-left: 15%;
     border-radius: 5px;
     
